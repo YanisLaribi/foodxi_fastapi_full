@@ -95,7 +95,7 @@ The new food appears immediately in the list and can be used in lineups.
 ## 📦 Installation  
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NutriTrack.git
+git clone https://github.com/YanisLaribi/NutriTrack.git
 cd NutriTrack/backend
 
 python -m venv venv
