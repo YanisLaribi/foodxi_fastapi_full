@@ -112,6 +112,3 @@ uvicorn main:app --reload
 Open in your browser:
 👉 http://127.0.0.1:8000
 ```
-📹 **Démonstration :**
-
-[▶️ Watch the demo video](assets/demo.mp4)
