@@ -9,7 +9,7 @@ Youtube presentation : https://youtu.be/rpG7Z8JTKyI (In french)
 NutriTrack turns nutrition into a game:  
 Kids build a **food lineup**, fight **Food Bosses**, and learn with a friendly animated **Kiwi Coach**.
 
-This is a PROTOTYPE originally created for a hackathon
+This is a PROTOTYPE originally created for a hackathon (24h)
 
 ---
 
@@ -112,4 +112,6 @@ uvicorn main:app --reload
 Open in your browser:
 👉 http://127.0.0.1:8000
 ```
+📹 **Démonstration :**
 
+[▶️ Watch the demo video](assets/demo.mp4)
